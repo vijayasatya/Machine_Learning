@@ -1,2 +1,2 @@
 # Machine_Learning
-In this Repo i would do like to add all my ML projects 
+In this Repo i would like to add all my ML projects 
