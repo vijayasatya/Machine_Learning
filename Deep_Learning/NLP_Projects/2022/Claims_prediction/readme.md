@@ -9,6 +9,6 @@ url like this http://127.0.0.1:5000/
 
 ####  The Sample image of the designed webpage using django
 
-<img src="Deep_Learning/NLP_Projects/2022/Claims_prediction/Sample_webpage_pic.png" width="128"/>
+<img src="Machine_Learning/Deep_Learning/NLP_Projects/2022/Claims_prediction/Sample_webpage_pic.png" width="128"/>
 
 
