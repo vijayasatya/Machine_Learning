@@ -1,3 +1,6 @@
+#### Data set used for this project is downloaded from the kaggle website you can check the url below
+https://www.kaggle.com/datasets/ssikmr/mimiciii
+
 #### Install the required Python Packages to run the project code. Open the cmd in the present working directory(Project_code) and paste the below code
 pip install requirements.txt
 
