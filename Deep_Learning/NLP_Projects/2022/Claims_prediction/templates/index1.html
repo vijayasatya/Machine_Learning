@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta name='viewport' content='width=device-width,initial-scale=1,shrink-to-fit=no'>
+<meta charset="UTF-8">
+    <title>MedCode</title>
+
+     <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style1.css') }}">
+    <style>
+html {
+    margin: 0;
+     padding: 0;
+    height: 100%;
+}
+body {
+
+    font-family: 'Handlee', cursive;
+    letter-spacing: 1px;
+    font-size: 10pt;
+    background-color: white;
+    background-size: cover;
+    margin: 0 ;
+    padding:10 px;
+    height:100%;
+    min-height:100%;
+    width:100%
+    overflow:hidden;
+ 
+}
+h1 {
+ font-size: 25pt;
+ color: #20bcd5;
+ text-align: center;
+ padding: 18px 0 18px 0;
+ margin: 0 0 10px 0;
+}
+h1 span {
+ border: 4px dashed #20bcd5;
+ padding: 10px;
+}
+p {
+ padding: 0;
+margin: 0;
+}
+.img-circle {
+ border: 3px solid white;
+ border-radius: 100%;
+}
+.scroll-object{
+ color : wheat;
+ font-family : cursive;
+ font-size : 15px;
+padding : 20px;
+
+}
+.section {
+ background-color: #fff;
+ padding: 15px;
+margin-bottom: 0;
+border-radius: 0x;
+}
+#header {
+background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+ background-size: cover;
+}
+#header img {
+ display: block;
+ width: 80px;
+height: 80px;
+margin: 0;
+}
+#header p {
+ font-size: 25pt;
+color: #3b464c;
+ padding-top: 5px;
+ margin: 0;
+ font-weight: bold;
+ text-align: center;
+}
+.quote {
+ font-size: 12pt;
+ text-align: left;
+ margin-top: 10px;
+}
+table {
+ font-family: "Times New Roman",Times, serif;
+ width: 100%;
+ font-size: 9pt;
+}
+table, th, td {
+ border: 2px solid #cecece;
+ border-collapse: collapse;
+ text-align: center;
+table-layout: fixed;
+}
+.selected {
+ background-color: #f36f48;
+ font-weight: bold;
+ color: white;
+}
+li {
+ margin-bottom: 15px;
+ font-weight: bold;
+}
+progress {
+ width: 70%;
+ height: 20px;
+ color: #3fb6b2;
+ background: #efefef;
+}
+progress::-webkit-progress-bar {
+ background: #efefef;
+}
+progress::-webkit-progress-value {
+ background: #3fb6b2;
+} 
+progress::-moz-progress-bar {
+ color: #3fb6b2;
+ background: #efefef;
+}
+iframe, audio {
+ display: block;
+ margin: 0 auto;
+ border: 3px solid #3fb6b2;
+}
+hr {
+ border: 0;
+ height: 1px;
+ background: #f36f48;
+}
+form {
+ 
+ margin-top: 0;
+}
+.submit {
+background-color: #3fb6b2;
+padding: 6px 23px;
+ border-radius: 5px;
+ cursor: pointer;
+color: #ffffff;
+ border: black;
+ outline: none;
+ margin: 1px 2px;
+ font-weight: bold;
+bottom : 0 px;
+display: inline-block;
+}
+
+.submit:hover {
+background-color: #43a09d;
+}
+textarea {
+ height: 100px;
+}
+input, textarea {
+ margin-bottom: 10px;
+ font-size: 26px;
+ padding: 15px 10px 10px;
+ border: 1px solid #cecece;
+ background-color: #efefef;
+ color: #787575;
+ border-radius: 5px;
+ width: 50%;
+ 
+ outline: none;
+}
+.face {
+ transform: scale(0.4);
+ margin: 0 auto;
+ display: block;
+ margin-top: -35px;
+margin-bottom: -25px;
+}
+#contacts img {
+ height: 50px;
+ width: 50px;
+ margin-left: 7px;
+ margin-right: 7px;
+}
+#contacts a {
+ text-decoration: none;
+}
+#contacts img:hover {
+ opacity: 0.8;
+}
+#contacts {
+ text-align: center;
+}
+
+.inline-txtarea {
+ text-align;center;
+ resize: none;
+ padding:15 px 0;
+ border : 2px solid black;
+ height:125px;
+ width : 450px;
+margin-left:30px;
+margin-right:auto;
+display:inline-block;
+
+}
+
+.box {
+ width: 10rem;
+ background: #e0e0e0;
+ padding: 1rem;
+ margin: 1rem;
+ border-radius: 1rem;
+ position: relative;
+}
+
+.box::before {
+ content: "";
+ width: 1rem;
+ height: 1rem;
+ background: #e0e0e0;
+ overflow: hidden;
+ position: absolute;
+ right: -0.5rem;
+ top: 50%;
+ transform: rotate(45deg);
+ margin-top: -0.5rem;
+}
+
+.top {
+ color: #555555;
+ text-align: left;
+width : 10
+ font-weight: bold;
+}
+#buttons {
+position: absolute;
+}
+#rightbox{
+ 
+ width:auto;
+ height:300px;
+ }
+#left {
+margin-left:100px;
+margin-right:auto;
+}
+
+h2 {
+ padding-top: 20px;
+ text-align: center;
+ color: rgb(214, 210, 210);
+}
+
+table {
+ margin: 0% auto;
+ width: auto;
+ color: rgb(0, 0, 0);
+box-shadow: 3px 3px 3px rgb(92, 114, 173), -3px -3px 3px rgb(21, 29, 53);
+}
+
+th {
+ padding: 1%;
+ font-size: 18px;
+ font-weight: 400;
+ color: rgb(255, 255, 255);
+ text-align: left;
+ background: rgb(50, 59, 58);
+ width : 200px;
+}
+
+td {
+ rowspan : 2;
+ min-width: 22px;
+ padding: 1% 0%;
+ font-size: 14px;
+ /*box-shadow: 0px -1px 0px 1px rgb(18, 92, 65);*/
+ width : 225px;
+
+}
+
+td:nth-child(1) {
+ color: rgb(0, 0, 0);
+ font-size: 16px;
+ text-transform: capitalize;
+}
+td:nth-child(4) {
+width : 200px;
+
+}
+
+tr:nth-child(odd) {
+ background: #43a09d;
+}
+
+tr:nth-child(even) {
+ background: rgb(46,112,110);
+}
+
+tr:active {
+ background-color: rgb(15, 107, 43);
+}
+
+::placeholder{
+ font-size:0.7em;
+}
+
+.scrollingTable {
+            width: 30em;
+            overflow-y: auto;
+        }
+</style>
+ <script type="text/javascript">
+         
+        function makeTableScroll() {
+            // Constant retrieved from server-side via JSP
+            var maxRows = 7;
+
+            var table = document.getElementById('myTable');
+            var wrapper = table.parentNode;
+            var rowsInTable = table.rows.length;
+            var height = 0;
+            if (rowsInTable > maxRows) {
+                for (var i = 0; i < maxRows; i++) {
+                    height += table.rows[i].clientHeight;
+                }
+                wrapper.style.height = height + "px";
+            }
+        }
+    </script>
+ </head>
+ <body style="height:100%" onload="makeTableScroll();">
+ <!-- Form section start -->
+<div class="section">
+ <h1><span>MedCode - The Medical Coding Assistant</span></h1>
+</br></br>  
+<form  method="post">
+<div class = "scroll-object" style="float:left;"> 
+
+<textarea placeholder="Enter Clinical Notes in the text box and click on Execute button to get suggestions of ICD codes" style="min-height : 200px;" id="xyz" name="message"class="inline-txtarea" >{{input_text}}</textarea></div> 	
+
+<div id="rightbox" class="scrollingTable">
+
+<table id="myTable">
+ <thead>
+ <th>Predicted Classes</th>
+ <th>Confidence_Percentage</th>
+ <th>ICD9 codde Description</th>
+ </thead>
+{% for cls,p,l_text in zip(classes,percentage,long_text) %}
+ <tr>
+ <td>{{cls}}</td>
+<td>{{p}}</td>
+<td>{{l_text}}</td>
+ </tr>
+ {% endfor %}
+ 
+ 
+</table>
+</div>
+
+<div id="left"> 
+<button type="submit" name="submit" value="Sample" class="submit" style="font-size: 15pt;"/>Sample</button>
+<button type="submit" name="submit" value="Clear" class="submit" formaction="/" style="font-size: 15pt; "/>Clear</button>
+ <button type="submit" name="submit" value="Execute" class="submit" style="font-size: 15pt; "/> Execute</button>
+</div>
+ </form>
+</div>
+ <!-- Form section end -->
+ </body>
+</html>

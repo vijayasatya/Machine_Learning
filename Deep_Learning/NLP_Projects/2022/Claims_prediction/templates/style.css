@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <meta name='viewport' content='width=device-width,initial-scale=1.0'>
+    <title></title>
+    <link rel="stylesheet" href="{% static '/css/style.css'%}">
+</head>
+<body>
+    </form>
+</div>
+
+<h1> Our Friends List:</h1>
+{% if classes%}
+<table>
+    <thead>
+    <th>Predicted Class</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Percentage</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    
+    {% for cls,p in zip(classes,percentage) %}
+    <tr>
+        <td>{{cls}}</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>{{p}}</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+    </tr>
+    {% endfor %}
+</table>
+{%else%}
+<p>NO record found</p>
+{% endif %}
+{% else %}
+<h1>Plz login first</h1>
+{% endif %}
+</body>
+</html>

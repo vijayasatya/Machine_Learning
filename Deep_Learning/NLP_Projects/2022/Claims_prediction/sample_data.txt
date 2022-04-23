@@ -1,0 +1,153 @@
+{admission date:   
+
+date of birth:         sex:  m
+
+service:  cardiology
+
+chief complaint:  chest pain.
+
+history of present illness:  mr.   is a 65-year-old
+diabetic male who was referred for cardiac catheterization
+following a positive stress test.
+
+he had an episode of chest tightness while at work sitting at
+his desk approximately one month ago.  it lasted for about 10
+minutes and resolved after he took aspirin and tums.  he has
+not had any further chest pain but has had some left hand
+tingling each night while lying in bed.  he also has had some
+shortness of breath after climbing two flights of stairs.
+
+he went to go see his local cardiologist and was referred for
+a stress test.  this test had to be stopped prematurely due
+to fatigue and marked dyspnea in addition to chest pain.  he
+did become hypertensive during his stress test and had
+electrocardiogram changes that were suggestive, but not
+diagnostic, in the lateral leads and was hence referred for
+cardiac catheterization.
+
+he denies any claudication, orthopnea, edema, paroxysmal
+nocturnal dyspnea, or lightheadedness.
+
+past medical history:
+1.  hypertension.
+2.  insulin-requiring adult-onset diabetes mellitus.
+3.  arthritis.
+
+past surgical history:  past surgical history was negative.
+
+allergies:  he is allergic to celebrex.
+
+medications on admission:
+1.  aspirin 325 mg p.o. q.d.
+2.  glucophage 850 mg p.o. b.i.d.
+3.  glyburide 2.5 mg p.o. q.d.
+4.  nph 20 to 25 units subcutaneous q.h.s.
+5.  zestril 10 mg p.o. q.d.
+
+pertinent laboratory data on presentation:  admission
+laboratories revealed his white blood cell count was 8.4,
+hematocrit was 31.6, platelets were 236.  blood urea nitrogen
+and creatinine were 19 and 1.  potassium was 4.7.
+
+physical examination on presentation:  on physical
+examination his heart rate was 60, his blood pressure
+was 160/70.  his neck was without bruits.  his heart had a
+regular rate and rhythm without murmurs.  the lungs were
+clear to auscultation bilaterally.  the abdomen was obese
+with no palpable masses.  his extremities demonstrated no
+varicosities and had normal pulses.
+
+hospital course:   the patient was admitted for an inpatient
+cardiac catheterization on  .  this was
+significant for multiple vessel disease including a long
+proximal severe narrowing of the left anterior descending
+artery and a long severe stenosis of the diagonal.  in
+addition, he had a 60% lesion in his right coronary artery
+and another 60% lesion in his posterior descending artery.
+
+due to the distribution of the patient's disease, it was felt
+that he was a candidate for cardiac surgery.  six hours
+following his catheterization, a heparin drip was started.
+in addition, cardiac surgery was consulted.
+
+the following day, he was taken to the operating room.
+there, he had coronary artery bypass graft times three.  his
+grafts were left internal mammary artery to left anterior
+descending artery, saphenous vein graft to left anterior
+descending artery first diagonal (?), and saphenous vein
+graft to distal right coronary artery.
+
+the patient's procedure itself was unremarkable.
+postoperatively, he was taken intubated to the cardiac
+surgery intensive care unit.  he was atrially paced with
+neo-synephrine and propofol drips.  that evening, he was kept
+on a ventilator with his neo-synephrine running at a lower
+rate.  later that day, he was extubated without incident and
+was subsequently weaned off his neo-synephrine.
+
+by the second postoperative day, his chest tube was
+discontinued, and he was transferred to the floor.
+
+on the floor, the patient had an unremarkable
+hospitalization.  all of his diabetes medications were
+restarted.  his foley catheter was discontinued, and his
+pacing wires were removed.  the patient was a bit slow to
+progress with his ambulation and required more diuresis than
+is typical.
+
+by the fifth postoperative day, he was finally weaned off of
+his oxygen and was ambulating adequately in the hallway.
+however, he had a rise in his white blood cell count from
+9000 to 14,000.  for this reason, he had a urinalysis that
+was sent that was negative for signs of infection.  by the
+following day, his white blood cell count had normalized
+to 10,000.  for this reason, we believed that he was safe to
+be discharged home.
+
+finally, he had some very mild hyperkalemia with a potassium
+of approximately of 5 to 5.2 despite his lasix therapy.  his
+potassium repletion was held for two days, and the decision
+was made to continue to replete him as an outpatient but at a
+lower dose.  he will have visiting nurse assistance to draw
+potassium in two days and telephone the results to his
+primary care physician,  .  his telephone number is
+ .
+
+discharge status:  the patient was discharged to home.
+
+medications on discharge:
+1.  glyburide 2.5 mg p.o. q.d.
+2.  enteric-coated aspirin 325 mg p.o. q.d.
+3.  glucophage 850 mg p.o. b.i.d.
+4.  nph 20 units subcutaneous q.h.s.
+5.  lopressor 25 mg p.o. b.i.d.
+6.  lasix 20 mg p.o. b.i.d. (times seven days).
+7.  potassium chloride 20 meq p.o. q.d. (times seven days).
+8.  colace 100 mg p.o. b.i.d.
+9.  percocet 5/325 one to two tablets p.o. q.4-6h. p.r.n.
+
+discharge followup:   the patient was to follow up with
+dr.   in approximately two weeks.  in addition, he was to
+follow up with dr.   in six weeks.
+
+discharge diagnoses:
+1.  coronary artery disease; now status post coronary artery
+bypass graft times three.
+2.  adult-onset diabetes mellitus, insulin-requiring and
+controlled.
+3.  hypertension.
+
+
+
+
+
+                           
+
+dictated by: 
+
+medquist36
+
+d:     12:06
+t:     06:32
+job#:   
+}
