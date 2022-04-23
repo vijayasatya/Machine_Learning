@@ -9,7 +9,7 @@ url like this http://127.0.0.1:5000/
 
 ####  The Sample image of the designed webpage using django
 
-![image description](Sample_webpage_pic.png)
-<img src="Sample_webpage_pic.png" width="128"/>
+![Snapshot of the created webpage](Sample_webpage_pic.png)
+
 
 
