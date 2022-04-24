@@ -1,4 +1,4 @@
-# Machine_Learning
+## Sign language object detection using yolov5
 
 #### Conversing with people having a hearing disability is a major challenge. Deaf and Mute people use hand gesture sign language to communicate, hence normal people face problems in recognizing their language by signs made. Hence there is a need for systems that recognize the different signs and conveys the information to normal people.
 
@@ -14,4 +14,4 @@
 ![Alt Text](img1.jfif)
 ![Alt Text](img2.jfif)
 
-![Alt Text](https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542)
+![Alt Text](https://www.animatedimages.org/data/media/466/animated-thank-you-image-0091.gif)
