@@ -23,5 +23,5 @@ url like this http://127.0.0.1:5000/
 <img src="Sample_webpage_pic.png" >
 
 
-<img src="https://www.pinclipart.com/picdir/middle/522-5226450_transparent-thank-you-clipart-thank-you-nhs-poster.png" width="400" height="400">
+<img src="https://www.pinclipart.com/picdir/middle/522-5226450_transparent-thank-you-clipart-thank-you-nhs-poster.png" width="200" height="200">
 
