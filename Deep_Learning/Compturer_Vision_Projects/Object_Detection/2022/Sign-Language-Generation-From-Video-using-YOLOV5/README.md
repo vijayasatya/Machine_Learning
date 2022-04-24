@@ -12,6 +12,5 @@
 
 #### The sample test images we capture at the end of our project you can find them below
 ![Alt Text](img1.jfif)
-![Alt Text](img2.jfif)
 
 ![Alt Text](https://www.animatedimages.org/data/media/466/animated-thank-you-image-0091.gif)
