@@ -2,7 +2,7 @@
 
 #### Conversing with people having a hearing disability is a major challenge. Deaf and Mute people use hand gesture sign language to communicate, hence normal people face problems in recognizing their language by signs made. Hence there is a need for systems that recognize the different signs and conveys the information to normal people.
 
-![Alt Text](https://wp.dailybruin.com/images/2020/08/787CA2F1-ED0B-4C2E-83FD-FFF4140712F0.png)
+<img src="https://wp.dailybruin.com/images/2020/08/787CA2F1-ED0B-4C2E-83FD-FFF4140712F0.png" width="800" height="400">
 
 #### In this sign language detection project we trained with 5 signs namely 'Hello','Yes','No','Thanks','IloveYou'
 
