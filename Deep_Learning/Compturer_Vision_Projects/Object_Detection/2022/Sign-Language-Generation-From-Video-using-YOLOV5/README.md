@@ -10,7 +10,7 @@
 
 #### You can find the dataset used for this project in the location Data\Sign_language_data.zip having the both train and test data with annotations. For the annotation of custom images you can use the Annotation Tool present in the git repo. 
 
-#### The sample test images we capture at the end of our project you can find them below
+#### The sample test images you can find them in the loaction  yolov5/runs/detect/exp5/ . Some random tested images are shown below.
 ![Alt Text](img1.jfif)
 
 ![Alt Text](https://www.animatedimages.org/data/media/466/animated-thank-you-image-0091.gif)
