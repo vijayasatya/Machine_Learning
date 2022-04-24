@@ -10,6 +10,8 @@ python code.py
 ####  After running the script Copy the url get from the command prompt . Open it in the browser
 url like this http://127.0.0.1:5000/ 
 
+
+
 ####  The Sample image of the designed webpage using django
 
 ![Snapshot of the created webpage](Sample_webpage_pic.png)
