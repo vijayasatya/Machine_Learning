@@ -1,9 +1,8 @@
 ## MedCode
 #### Medcode is envisoned as a solution to assist medcoders by processing unstructured clinical data from multiple sources. Poweredby AI/ML technologies Medcode enables computer assisted medical coding to improve pass rate for hospital claims and reduce denial rate due to incorrect coding.
 
-![Alt Text](https://aics.asus.com/wp-content/uploads/2021/05/Miraico_editing2-05-1024x802.png)
 
-<img src="https://www.pinclipart.com/picdir/middle/522-5226450_transparent-thank-you-clipart-thank-you-nhs-poster.png" width="400" height="400">
+<img src="https://aics.asus.com/wp-content/uploads/2021/05/Miraico_editing2-05-1024x802.png" width="800" height="400">
 #### Data set used for this project is downloaded from the kaggle website you can check the url below
 https://www.kaggle.com/datasets/ssikmr/mimiciii
 
