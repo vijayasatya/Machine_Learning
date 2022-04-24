@@ -11,7 +11,7 @@
 #### You can find the dataset used for this project in the location Data\Sign_language_data.zip having the both train and test data with annotations. For the annotation of custom images you can use the Annotation Tool present in the git repo. 
 
 #### The sample test images we capture at the end of our project you can find them below
-![Alt Text](img1)
-![Alt Text](img2)
+![Alt Text](img1.jfif)
+![Alt Text](img2.jfif)
 
 ![Alt Text](https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542)
