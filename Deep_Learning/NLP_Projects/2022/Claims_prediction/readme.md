@@ -18,10 +18,9 @@ url like this http://127.0.0.1:5000/
 
 ####  The Sample image of the designed webpage using django
 
-![Snapshot of the created webpage](Sample_webpage_pic.png)
+
+<img src="Sample_webpage_pic.png" width="100" height="100">
 
 
-![Alt Text](https://www.pinclipart.com/picdir/middle/522-5226450_transparent-thank-you-clipart-thank-you-nhs-poster.png)
-
-
+<img src="https://www.pinclipart.com/picdir/middle/522-5226450_transparent-thank-you-clipart-thank-you-nhs-poster.png" width="100" height="100">
 
