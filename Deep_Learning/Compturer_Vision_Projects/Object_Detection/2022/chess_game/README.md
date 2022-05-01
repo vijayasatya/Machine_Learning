@@ -13,4 +13,4 @@
 #### The sample test images you can find them in the loaction  yolov5/runs/detect/exp/ . Some random tested images are shown below.
 ![Alt Text](chess_obj_result.jpg)
 
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ImqmAsH_3Fh_f0FZOlixV0O-hegYDg3idw&usqp=CAU.gif)
+![Alt Text](https://forums-images.oneplus.net/attachments/1666/1666917-ec3ffa6d8eaca714cb887fe1baf289e9.gif)
