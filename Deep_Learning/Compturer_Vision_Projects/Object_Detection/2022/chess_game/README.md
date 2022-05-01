@@ -2,7 +2,7 @@
 
 #### This project determines the positions of each piece on a physical chessboard, so that a computer can record a game of chess by noting down the piece positions at the end of each turn. It determines each move so that the game can be replayed later without watching actual footage. The project allows for easy viewing of past games. An image of the chessboard is analyzed to detect each square on the board, and each piece's location. This is then done for each turn, so that the system can keep track of an entire game.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwan9Px0B-WHW_R_cARJNE-duApC70xOwGBQ&usqp=CAU" width="600" height="600">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwan9Px0B-WHW_R_cARJNE-duApC70xOwGBQ&usqp=CAU">
 
 #### In this Chess pieces  object detection project we trained with 13 classes. This is a dataset of Chess board photos and various pieces. All photos were captured from a constant angle, a tripod to the left of the board. The bounding boxes of all pieces are annotated as follows: white-king, white-queen, white-bishop, white-knight, white-rook, white-pawn, black-king, black-queen, black-bishop, black-knight, black-rook, black-pawn. There are 693 labels across 693 images.
 
